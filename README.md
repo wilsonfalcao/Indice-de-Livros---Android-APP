@@ -6,6 +6,10 @@ para consultar o acervo em seu banco de dados ou uso de API's de livros na nuvem
 
 This project has developed to educational uses and free. The Indice de Livros APP is a project developed to find new books through the API or local database and more functions. You will implement recognize image services (Google Vision, TsonFlow, Tesseract or etc.) to easily research.
 
+## Frameworks usados / Dependencies
+
+[package.json](https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/package.json).
+
 ## Imagens do projeto / Project Demo
 
 <table style="width:100%;">
@@ -27,6 +31,3 @@ This project has developed to educational uses and free. The Indice de Livros AP
   </td>
 </tr>
   </table>
-## Frameworks usados / Dependencies
-
-[package.json](https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/package.json).
