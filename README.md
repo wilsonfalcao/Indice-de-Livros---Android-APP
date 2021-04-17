@@ -10,8 +10,10 @@ This project has developed to educational uses. The Indice de Livros APP is a pr
 
 [package.json](https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/package.json).
 
-## To install all dependencies
-`<addr>` npm install
+##  Installation
+```bash
+npm install
+```
 
 ## Imagens do projeto / Project Demo
 
