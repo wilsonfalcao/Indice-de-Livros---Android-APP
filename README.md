@@ -8,12 +8,11 @@ This project has developed to educational uses and free. The Indice de Livros AP
 
 ## Imagens do projeto / Project Demo
 
-<img src="https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/home-app-book-v150320211221.png" width="50"/>
-![Indice Home after login](https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/home-app-book-v150320211221.png | width=300)
-![Indice Camera](https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/camera-takephoto-app-book-v150320211221.png | width=50%)
-![Indice Camera show datas](https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/camera-returnphoto-app-book-v150320211221.png | width=50%)
-![Indice Search](https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/search-app-book-v150320211221.png | width=50%)
-![Indice Search Filter](https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/searchFilter-book-v150320211221.png | width=50%)
+<img src="https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/home-app-book-v150320211221.png" width="70"/>
+<img src="https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/camera-takephoto-app-book-v150320211221.png" width="70"/>
+<img src="https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/camera-returnphoto-app-book-v150320211221.png" width="70"/>
+<img src="https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/search-app-book-v150320211221.png" width="70"/>
+<img src="https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/searchFilter-book-v150320211221.png" width="70"/>
 
 ## Frameworks usados / Dependencies
 
