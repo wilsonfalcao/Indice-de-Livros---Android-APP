@@ -8,12 +8,25 @@ This project has developed to educational uses and free. The Indice de Livros AP
 
 ## Imagens do projeto / Project Demo
 
-<img src="https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/home-app-book-v150320211221.png" width="70"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/home-app-book-v150320211221.png" width="70"/>
+    </td>
+    <td>
 <img src="https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/camera-takephoto-app-book-v150320211221.png" width="70"/>
+      </td>
+      <td>
 <img src="https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/camera-returnphoto-app-book-v150320211221.png" width="70"/>
+        </td>
+        <td>
 <img src="https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/search-app-book-v150320211221.png" width="70"/>
+          </td>
+<td>
 <img src="https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/design%20material/app-rendered/searchFilter-book-v150320211221.png" width="70"/>
-
+  </td>
+</tr>
+  </table>
 ## Frameworks usados / Dependencies
 
 [package.json](https://github.com/wilsonfalcao/Indice-de-Livros---Android-APP/blob/main/package.json).
